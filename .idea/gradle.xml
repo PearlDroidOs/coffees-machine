@@ -31,6 +31,7 @@
             <option value="$PROJECT_DIR$/Problems/Check the value (1)" />
             <option value="$PROJECT_DIR$/Problems/Cities comparison" />
             <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems/Comment some lines" />
             <option value="$PROJECT_DIR$/Problems/Comparing sums" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Composition" />
@@ -62,8 +63,10 @@
             <option value="$PROJECT_DIR$/Problems/Harry Potter" />
             <option value="$PROJECT_DIR$/Problems/Healthy sleep" />
             <option value="$PROJECT_DIR$/Problems/Hello, Kotlin" />
+            <option value="$PROJECT_DIR$/Problems/Hello, Kotlin (1)" />
             <option value="$PROJECT_DIR$/Problems/How many nuts will be left after division" />
             <option value="$PROJECT_DIR$/Problems/I like Kotlin" />
+            <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
             <option value="$PROJECT_DIR$/Problems/Interval" />
             <option value="$PROJECT_DIR$/Problems/Is between" />
             <option value="$PROJECT_DIR$/Problems/Job" />
@@ -84,6 +87,7 @@
             <option value="$PROJECT_DIR$/Problems/Print a string exactly ten times" />
             <option value="$PROJECT_DIR$/Problems/Print two numbers on the same line" />
             <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Pseudo-constructor" />
             <option value="$PROJECT_DIR$/Problems/Queens" />
             <option value="$PROJECT_DIR$/Problems/Rainbow colors" />
@@ -99,8 +103,10 @@
             <option value="$PROJECT_DIR$/Problems/Swap" />
             <option value="$PROJECT_DIR$/Problems/The Hello World program" />
             <option value="$PROJECT_DIR$/Problems/The army of units" />
+            <option value="$PROJECT_DIR$/Problems/The countdown" />
             <option value="$PROJECT_DIR$/Problems/The eternal truth" />
             <option value="$PROJECT_DIR$/Problems/The first position of the largest element" />
+            <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
             <option value="$PROJECT_DIR$/Problems/The information about a person" />
             <option value="$PROJECT_DIR$/Problems/The largest element" />
             <option value="$PROJECT_DIR$/Problems/The last digit of a number" />
@@ -114,6 +120,7 @@
             <option value="$PROJECT_DIR$/Problems/The sum of digits" />
             <option value="$PROJECT_DIR$/Problems/The sum of three numbers" />
             <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
             <option value="$PROJECT_DIR$/Problems/Very Big Number" />
             <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
             <option value="$PROJECT_DIR$/Problems/Vowel or not" />
